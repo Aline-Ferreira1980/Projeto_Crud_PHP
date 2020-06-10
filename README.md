@@ -6,10 +6,10 @@ Desejável: utilizar bootstrap e mandar uma interface amigável.
 
 
 Tecnologias utilizadas: 
-*Bootstrap
-*Banco de Dados MySql
-*PHP
-*CSS
-*HTML5
+###Bootstrap
+###Banco de Dados MySql
+###PHP
+###CSS
+###HTML5
 
 Para acesso ao sistema de cadastros utiliza-se dados fictícios: E-mail: aline@uscs.edu.com.br    CPF: 461.415.180-95
