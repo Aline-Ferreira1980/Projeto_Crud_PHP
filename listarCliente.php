@@ -1,7 +1,7 @@
 <?php
 session_start();
     
-    $con = mysqli_connect('localhost', 'root', ' ', 'projetoPHP');
+    $con = mysqli_connect('localhost', 'root', '', 'projetoPHP');
         
     $sql = "SELECT * FROM usuario";
     
